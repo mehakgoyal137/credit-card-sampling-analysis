@@ -29,7 +29,7 @@ We applied multiple resampling methods and trained five ML models to compare acc
 ## 📊 Accuracy Comparison Table
 The final accuracy results are stored in:
 
-- [results_matrix.csv](results_matrix.csv) → **Click to view full table**
+- [results/results_matrix.csv](results_matrix.csv) → **Click to view full table**
 
 Example (rounded values):
 
@@ -66,5 +66,6 @@ Example (rounded values):
 - **Random Over Sampling** consistently gave the highest accuracy for most models.  
 - **SMOTE** improved SVM performance compared to other techniques.  
 - Decision Tree, Random Forest, and XGBoost achieved near-perfect accuracy with oversampling methods.  
+
 
 This analysis highlights the importance of choosing the right sampling technique when dealing with imbalanced datasets.
