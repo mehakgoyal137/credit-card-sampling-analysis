@@ -29,7 +29,7 @@ We applied multiple resampling methods and trained five ML models to compare acc
 ## 📊 Accuracy Comparison Table
 The final accuracy results are stored in:
 
-- [results/results_matrix.csv](results_matrix.csv) → **Click to view full table**
+- [Full Results Matrix](results/results_matrix.csv) → Click to view the table
 
 Example (rounded values):
 
@@ -69,4 +69,5 @@ Example (rounded values):
 
 
 This analysis highlights the importance of choosing the right sampling technique when dealing with imbalanced datasets.
+
 
